@@ -21,5 +21,19 @@
 - Graphs (5)
 
 ## 📈 Progress Tracker
+
 | Day | Date | Problem 1 | Problem 2 | Status |
 |-----|------|-----------|-----------|--------|
+| 01 | Jun 27 | Two Sum | Contains Duplicate | ⬜ |
+| 02 | Jun 28 | Valid Anagram | Group Anagrams | ⬜ |
+| 03 | Jun 29 | Top K Frequent | Product of Array | ⬜ |
+| ... | ... | ... | ... | ... |
+
+## 🎯 Goals
+- ✅ GitHub Streak for 96 days
+- ✅ Master DSA concepts
+- ✅ Build problem-solving skills
+- ✅ Prepare for coding interviews
+
+---
+⭐ Star this repo if you find it helpful!

@@ -1,7 +1,10 @@
-﻿# 📅 Complete 96-Day Schedule
+﻿# 📅 96-Day DSA Challenge Schedule
+
+## Complete Daily Schedule
 
 | Day | Date | Problem 1 (LC#) | Problem 2 (LC#) | Topic |
-|-----|------|----------------|----------------|-------|| 01 | Jun 27 | Two Sum (1) | Contains Duplicate (217) | Arrays & Hashing |
+|-----|------|----------------|----------------|-------|
+| 01 | Jun 27 | Two Sum (1) | Contains Duplicate (217) | Arrays & Hashing |
 | 02 | Jun 28 | Valid Anagram (242) | Group Anagrams (49) | Arrays & Hashing |
 | 03 | Jun 29 | Top K Frequent (347) | Product of Array (238) | Arrays & Hashing |
 | 04 | Jun 30 | Longest Consecutive (128) | Majority Element (169) | Arrays & Hashing |
@@ -56,7 +59,7 @@
 | 53 | Aug 18 | Sort List (148) | Merge k Lists (23) | Linked List |
 | 54 | Aug 19 | Flatten LL (430) | Reverse LL II (92) | Linked List |
 | 55 | Aug 20 | LRU Cache (146) | LFU Cache (460) | Design |
-| 56 | Aug 21 | Design LL (707) | Review Day () | Review |
+| 56 | Aug 21 | Design LL (707) | Review Day | Review |
 | 57 | Aug 22 | Inorder (94) | Preorder (144) | Trees |
 | 58 | Aug 23 | Postorder (145) | Level Order (102) | Trees |
 | 59 | Aug 24 | Max Depth (104) | Symmetric (101) | Trees |
@@ -77,7 +80,7 @@
 | 74 | Sep 08 | LIS (300) | Partition Equal (416) | DP |
 | 75 | Sep 09 | Jump Game (55) | Jump Game II (45) | DP |
 | 76 | Sep 10 | Unique Paths II (63) | Min Path (64) | DP |
-| 77 | Sep 11 | Edit Distance (72) | Review () | DP |
+| 77 | Sep 11 | Edit Distance (72) | Review | DP |
 | 78 | Sep 12 | Combination IV (377) | Word Break (139) | DP |
 | 79 | Sep 13 | Subsets (78) | Subsets II (90) | Backtracking |
 | 80 | Sep 14 | Permutations (46) | Permutations II (47) | Backtracking |
@@ -89,12 +92,11 @@
 | 86 | Sep 20 | Course Schedule (207) | Course Schedule II (210) | Graphs |
 | 87 | Sep 21 | Pacific Atlantic (417) | Surrounded (130) | Graphs |
 | 88 | Sep 22 | Word Ladder (127) | Rotting Oranges (994) | Graphs |
-| 89 | Sep 23 | Alien Dictionary (269*) | Graph Valid Tree (261*) | Graphs |
-| 90 | Sep 24 | Review Hard () | Mock Interview () | Review |
-| 91 | Sep 25 | Review Arrays () | Review Pointers () | Review |
-| 92 | Sep 26 | Review Stacks () | Review Linked List () | Review |
-| 93 | Sep 27 | Review Trees () | Review BST () | Review |
-| 94 | Sep 28 | Review DP () | Review Backtracking () | Review |
-| 95 | Sep 29 | Review Graphs () | Review Sliding Window () | Review |
-| 96 | Sep 30 | FINAL MOCK () | 🎉 CELEBRATE () | 🎊 |
-
+| 89 | Sep 23 | Alien Dictionary (269)* | Graph Valid Tree (261)* | Graphs |
+| 90 | Sep 24 | Review Hard | Mock Interview | Review |
+| 91 | Sep 25 | Review Arrays | Review Pointers | Review |
+| 92 | Sep 26 | Review Stacks | Review Linked List | Review |
+| 93 | Sep 27 | Review Trees | Review BST | Review |
+| 94 | Sep 28 | Review DP | Review Backtracking | Review |
+| 95 | Sep 29 | Review Graphs | Review Sliding Window | Review |
+| 96 | Sep 30 | **FINAL MOCK** | **🎉 CELEBRATE** | **🎊** |

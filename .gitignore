@@ -1,25 +1,36 @@
-﻿__pycache__/
-*.pyc
-*.pyo
-*.pyd
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
 .Python
 env/
 venv/
 ENV/
 .venv
-.DS_Store
-Thumbs.db
-node_modules/
-.vscode/
-.idea/
-*.iml
+*.egg-info/
+
+# Java
 *.class
 *.jar
 *.war
 *.ear
 target/
-build/
-dist/
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+package-lock.json
+
+# Compiled
 *.exe
 *.out
 *.app

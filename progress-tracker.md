@@ -16,6 +16,7 @@
 <!-- Update this daily -->
 
 ## 📈 Weekly Progress
+
 | Week | Days | Questions | Status |
 |------|------|-----------|--------|
 | Week 1 | 01-07 | 0/14 | ⬜ |
