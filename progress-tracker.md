@@ -2,14 +2,14 @@
 
 ## Overall Progress
 - **Total Days:** 96
-- **Days Completed:** 0/96
+- **Days Completed:** 1/96
 - **Total Questions:** 192
-- **Questions Solved:** 0/192
-- **Completion:** 0%
+- **Questions Solved:** 2/192
+- **Completion:** 0.96%
 
 ## 🔥 Streak Tracker
-- **Current Streak:** 0 days
-- **Longest Streak:** 0 days
+- **Current Streak:** 1 days
+- **Longest Streak:** 1 days
 - **Goal:** 96 days 🔥
 
 ## ✅ Completed Days
