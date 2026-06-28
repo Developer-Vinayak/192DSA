@@ -1,5 +1,5 @@
 # Day 2 
  
 ## Problems Solved 
-- [ ] Problem 1 
-- [ ] Problem 2 
+- [x] Problem 1 
+- [x] Problem 2 
