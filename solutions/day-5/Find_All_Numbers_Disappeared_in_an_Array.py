@@ -1,15 +1,8 @@
-class Solution{
-  public List<Integers> findDisappearedNumbers (int[] nums){
-    ArrayList<Integer> list = new Arraylist();
-    int freq[] = new int[nums.length + 1];
-    for(int i=0; i<nums.length; i++){
-      freq[nums[i]]++;
-    }
-    for(int i=1; i<=nums.length; i++){
-      if(freq[i]==0){
-        list.add(i);
-      }
-    }
-    return list;
-  }
-}
+class Solution(object):
+    def findDisappearedNumbers(self, nums):
+        nset=set(nums)
+        c=[]
+        for i in range(1,len(nums)+1):
+           if i not in nset:
+                c.append(i)
+        return c
