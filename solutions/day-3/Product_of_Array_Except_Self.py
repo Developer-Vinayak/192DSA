@@ -1,16 +1,13 @@
-class Solution {
-    public int[] productExceptSelf(int[] nums) {
-        int n=nums.length;
-        int[] res=new int[n];
-        res[0]=1;
-        for (int i=1;i<n;i++) {
-            res[i]=res[i-1]*nums[i-1];
-        }
-        int rp=1;
-        for(int i=n-1;i>=0;i--){
-            res[i]=res[i]*rp;
-            rp*=nums[i];
-        }
-        return res;
-    }
-}
+class Solution(object):
+    def productExceptSelf(self, nums):
+        n=len(nums)
+        pre=[1]*n
+        suf=[1]*n
+        res=[1]*n
+        for i in range(1,n):
+            pre[i]=pre[i-1]*nums[i-1]
+        for i in range(n-2,-1,-1):
+            suf[i]=suf[i+1]*nums[i+1]
+        for i in range(n):
+            res[i]=pre[i]*suf[i]
+        return res
