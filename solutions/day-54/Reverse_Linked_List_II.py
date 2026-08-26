@@ -2,7 +2,6 @@ class Solution:
     def reverseBetween(self, head: ListNode, left: int, right: int) -> ListNode:
         if not head or left == right:
             return head
-
         dummy = ListNode(0, head)
         prev = dummy
         for _ in range(left - 1):
@@ -13,5 +12,4 @@ class Solution:
             curr.next = temp.next
             temp.next = prev.next
             prev.next = temp
-
         return dummy.next
