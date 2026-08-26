@@ -2,10 +2,8 @@ class Solution:
     def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
         if not head:
             return head
-
         curr = head
         stack = []
-
         while curr:
             if curr.child:
                 if curr.next:
