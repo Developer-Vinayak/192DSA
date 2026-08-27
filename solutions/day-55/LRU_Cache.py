@@ -36,7 +36,6 @@ class LRUCache:
                 self.cache.pop(lru_node.key)
                 self._remove_node(lru_node)
                 self.size -= 1
-
     def _remove_node(self, node: Node) -> None:
         node.prev.next = node.next
         node.next.prev = node.prev
