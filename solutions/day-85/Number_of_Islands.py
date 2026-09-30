@@ -2,10 +2,8 @@ class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         if not grid:
             return 0
-
         m, n = len(grid), len(grid[0])
         count = 0
-
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == '1':
@@ -19,5 +17,4 @@ class Solution:
                             if 0 <= nr < m and 0 <= nc < n and grid[nr][nc] == '1':
                                 grid[nr][nc] = '0'
                                 stack.append((nr, nc))
-
         return count
